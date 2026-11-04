@@ -1,0 +1,11 @@
+# PyTorch con CUDA: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+torch
+torchvision
+medmnist
+scikit-learn
+pandas
+pyarrow
+matplotlib
+gradio
+huggingface_hub
+joblib
